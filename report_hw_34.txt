@@ -1,0 +1,60 @@
+
+Test Case ID: 		TC-001.01
+URL: 			http://www.learn2test.net
+Title Expected: 	learn2test.net
+Title Actual: 		learn2test.net
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.02
+URL: 			http://www.learn2test.net
+Title Expected: 	learntotest.net
+Title Actual: 		learn2test.net
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.03
+URL: 			http://www.learn2test.net
+Title Expected: 	learn2test.com
+Title Actual: 		learn2test.net
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.04
+URL: 			http://www.lenta.ru
+Title Expected: 	lenta.ru
+Title Actual: 		Lenta.ru
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.05
+URL: 			http://www.lenta.ru
+Title Expected: 	lenta.rus
+Title Actual: 		Lenta.ru
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.06
+URL: 			http://www.alegro.com
+Title Expected: 	alegro.com
+Title Actual: 		www.alegro.com
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.07
+URL: 			http://www.straighttalk.com
+Title Expected: 	straighttalk.com
+Title Actual: 		Prepaid Cell Phones, Unlimited Mobile Plans: StraightTalk Wireless
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.08
+URL: 			http://www.straighttalk.com
+Title Expected: 	straighttalk.ru
+Title Actual: 		Prepaid Cell Phones, Unlimited Mobile Plans: StraightTalk Wireless
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.09
+URL: 			http://www.ebay.com
+Title Expected: 	ebay.com
+Title Actual: 		Electronics, Cars, Fashion, Collectibles, Coupons and More | eBay
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.010
+URL: 			http://www.ebay.com
+Title Expected: 	ebay.cc
+Title Actual: 		Electronics, Cars, Fashion, Collectibles, Coupons and More | eBay
+Test Case Result: 	FAILED
